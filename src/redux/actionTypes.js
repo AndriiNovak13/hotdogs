@@ -1,0 +1,5 @@
+export default {
+    ADD_HOTDOG: 'ADD_HOTDOG',
+    UPDATE_HOTDOG: 'UPDATE_HOTDOG',
+    DELETE_HOTDOG: 'DELETE_HOTDOG'
+}

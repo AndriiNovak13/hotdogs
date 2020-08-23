@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hotdogs/static/css/main.0b8e38d9.chunk.css",
+    "main.js": "/hotdogs/static/js/main.faeccd95.chunk.js",
+    "main.js.map": "/hotdogs/static/js/main.faeccd95.chunk.js.map",
+    "runtime-main.js": "/hotdogs/static/js/runtime-main.5ff2be27.js",
+    "runtime-main.js.map": "/hotdogs/static/js/runtime-main.5ff2be27.js.map",
+    "static/js/2.f53e52b3.chunk.js": "/hotdogs/static/js/2.f53e52b3.chunk.js",
+    "static/js/2.f53e52b3.chunk.js.map": "/hotdogs/static/js/2.f53e52b3.chunk.js.map",
+    "index.html": "/hotdogs/index.html",
+    "precache-manifest.33d84b4c9cc21fc4d4d266314c664264.js": "/hotdogs/precache-manifest.33d84b4c9cc21fc4d4d266314c664264.js",
+    "service-worker.js": "/hotdogs/service-worker.js",
+    "static/css/main.0b8e38d9.chunk.css.map": "/hotdogs/static/css/main.0b8e38d9.chunk.css.map",
+    "static/js/2.f53e52b3.chunk.js.LICENSE.txt": "/hotdogs/static/js/2.f53e52b3.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/hotdogs/static/media/roboto-v20-latin-regular.8681f434.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff2be27.js",
+    "static/js/2.f53e52b3.chunk.js",
+    "static/css/main.0b8e38d9.chunk.css",
+    "static/js/main.faeccd95.chunk.js"
+  ]
+}
